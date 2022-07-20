@@ -12,4 +12,7 @@ As requested within the project brief a GPA calculator was to be developed for a
 *Object-Oriented paradigm*
 - GPA_Python_OOP.py
 
+*Report*
+- Leonard Curtin MPP Report
+
 
